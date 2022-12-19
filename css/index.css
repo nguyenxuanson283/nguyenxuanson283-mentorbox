@@ -497,7 +497,7 @@ nav .logo-footer {
 
  @media screen and (max-width: 1440px) {
     body{
-     width: 257vh;
+     width: 279vh;
     }
     .container{
      width: 100%;
@@ -569,7 +569,7 @@ nav .logo-footer {
      width: 100%;
     }
     .img-img-content ul img{
-        width: 57vh;
+        width: 61vh;
         margin-right: 2rem;
     }
     .button-img img{
@@ -644,13 +644,13 @@ nav .logo-footer {
  }
  @media screen and (max-width: 768px) {
     body{
-     width: 141vh;
+     width: 148vh;
     }
     .container{
      width: 100%;
     }
     header{
-     width: 140vh;
+     width: 148vh;
     }
     .around-nav{
      width: 120vh;
@@ -664,7 +664,7 @@ nav .logo-footer {
      width: 25vh;
     }
     nav .menu-left{
-     width: 45vh;
+     width: 68vh;
     }
     .nav .menu-left ul{
      font-size: 10px;
@@ -714,13 +714,13 @@ nav .logo-footer {
      margin-right: 1rem;
     }
     .button-img img{
-     top:345px;
+     top:264px;
      position: absolute;
      right: 0px;
     }
     .button-back-img img{
      position: absolute;
-     top: 345px;
+     top: 264px;
      left: -10px
     }
     .images-background{
@@ -741,11 +741,11 @@ nav .logo-footer {
      top:0px
     }
     .button-img-background img{
-     top: 197px;
+     top: 88px;
      right: 20px;
     }
     .button-back-img-background img{
-     top:197px
+     top:88px
     }
     .img-content-background{
      top:-50px
