@@ -506,7 +506,7 @@ nav .logo-footer {
      width: 100%;
     }
     .around-nav{
-     width: 242vh;
+     width: 265vh;
     }
     .header{
      width: 125vh;
@@ -702,12 +702,14 @@ nav .logo-footer {
     }
     .img-content{
      width: 100%;
+     height: 305px;
     }
     .title-img-content{
      margin-top:5px
     }
     .img-img-content{
      width: 100%;
+     height: 180px;
     }
     .img-img-content ul img{
      width: 33vh;
